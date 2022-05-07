@@ -1,4 +1,4 @@
-<img src="header.png">
+<img src="header-banner.png">
 
 
 <a href="https://github.com/champnc">
